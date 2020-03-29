@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "xenon-tracer-272502",
+  "private_key_id": "37965d6b6d982a47419eeba28386c11147fea35f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgSsebWWMKP7Ps\nAVXTSIFehA1cynmKQlAHP8TVl/L2t5E8+jIa9UtXlZlGvu++3XN96qjy6G9uNLoL\n4ddQmOrewvcCfAGmBv8RNcTxS1cMxqW8om3+em5Iv+iSQ57z/2Jj64pYr1inYhLt\n8YOAGmEBrkXPWUPzSYptU9J0LtG2hIdCECuZ6/4wN2eAGWvcVaHXXsXzsJoLU2tG\nfNGXRwIYBS/YxCeVuVeeblulxfT8dl+mAYFFHw+qN4KfK7pf8zmJwxoCO5h8cPnG\nGQ0G+7mntMl1pVpCTNa/9YykYZ8/eQvlyif/8EuNd4BzrmVr/SpDKVLqi6q9AzFi\ndltiBqr3AgMBAAECggEACPfQwyL1JOr7fgYfxHpsrS+7hP2EX0qRKlaprz7ucQSZ\niPfWkHuOLjrzIGopBQdkIXSyOc+XVxXMHZi9GzKdsWjnDlSHIxWGdR1fr2sFAR9R\na9m1SGTr1qt7Wkjo6RiDa2O6PHaoVx+9lLfLy6xY0RHsW0rQlRlVjVhV5fot8YV8\nozrUXoY1xGTpTdlsVUu2ELLkEDA+vOgpXGUyXVsD1M0m6V2nEOgKX1GZ97w8ujls\nQ2VhYSms89TN77we2hKcDzuPGjRovmvTIioEKJL2bAB8RZnvPyapv32US+qSpKBA\nUUGlpvOJU2YHpvDda4mmIlYTch79c8NTr0ucfv3swQKBgQDVy5siffCOIv+putzw\n3wKCH+4/AiRCIRJonQrROH2M3ksCVXK0P8HhzvVrqZ+cU7C53WrF8Fc5z2bygPZ3\nR1F82p2W+WwxsZ+CP7MWCSgyvYG8+Shufn7zrd2kZNQc0HSCjWFsePGDMdhSBwuM\nNrYzVhFn/7wck6dPUKKwMWNh3QKBgQC/71ONBIeE6IoCF7Xnn3xoZFXxaSYEtFaK\n0KTqaKa+x7cgNhs90Oi1h4PVFNni6eDvjCawcrqP1piVwkbcotzjGF2rODpADhVQ\nkTWstdXUz6bVsjvKjHfO5+CIckXuGkoCccdjm5QUxE0MYN7d7XnclRucJghe3YdN\nUD80Cb404wKBgDjjv/kyp/M6jut8RNR3kzRLCNuNV1addEeQGlPIA2ibsjwBvs8F\n9DKBHr8yWL2Ba5JZv9LB/IPuk4dOF8dvm9hsV+jXoBmtGTPQfXgMoby2vrIpXr/g\nOynehw76oZK1SXt/4X+6wxFVDynso/8AhAUvDtysqUK1a5zoaRIXYkmlAoGBAJM4\nYrDvAXf72ifiwf+pQIbeN2HV0niXTy5o/aZjoUsC679EYT7YKDdde8yMkthPpt53\ndRGw3tMHusBcZXhFYAK9JNP5bAzIAKdsymvwidUTdhfB/8TMW/WTvJFMfcE13wDi\n/xqzMjF/pM3S3AAEcI22vZfXQGJrr6Wo4OHsez4bAoGANeqxew8RFoekPUQf9l6F\nO/lCHOMjxqpMXRSxFWPtXvxfZEWh/Tg2xV4bWC4QaATxXYqARM5bBc/CUQTVbWap\nh5G9Vg33zBOOvLHwSHd2fO4JYc8TvT2afBiFnxvXr8DnABDG8nTO2q2tr8yj4kn+\n9fwVJKARugZx90UUi2gJrxc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "edit-google-sheets@xenon-tracer-272502.iam.gserviceaccount.com",
+  "client_id": "116875524971653065208",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/edit-google-sheets%40xenon-tracer-272502.iam.gserviceaccount.com"
+}
