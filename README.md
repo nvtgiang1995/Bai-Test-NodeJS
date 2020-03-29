@@ -1,6 +1,6 @@
 # Bai-Test-NodeJS
 
-Cronjob chạy định kỳ hàng ngày, đọc schema của db lên, merge với google sheet
+Cronjob chạy định kỳ hàng ngày, đọc schema của db lên, merge với google sheet. Em dang set cronjob 1 phút chạy 1 lần
 
 # Installation
 
